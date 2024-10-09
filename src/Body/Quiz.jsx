@@ -26,7 +26,6 @@ const Quiz = ({ questions }) => {
       answer
         ? {
             ...prev,
-            score: prev.score + 5,
             correctAnswers: prev.correctAnswers + 1,
           }
         : {
@@ -80,9 +79,6 @@ const Quiz = ({ questions }) => {
             <h3>Result</h3>
             <p>
               Total Questions: <span>{questions.length}</span>
-            </p>
-            <p>
-              Total Score: <span>{result.score}</span>
             </p>
             <p>
               Correct Answers: <span>{result.correctAnswers}</span>
