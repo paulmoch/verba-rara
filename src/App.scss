@@ -1,0 +1,9 @@
+@import "./assets/variables.scss";
+
+.App {
+  min-height: 100svh;
+  font-family: "Space Grotesk", sans-serif;
+  color: $brown;
+  display: flex;
+  flex-direction: column;
+}
