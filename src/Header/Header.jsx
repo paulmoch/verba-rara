@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.scss";
-import Wordmark from "/public/images/wordmark_black.svg";
+import Wordmark from "../images/wordmark_black.svg";
 
 function Header() {
   return (
