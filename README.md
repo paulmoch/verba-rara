@@ -1,8 +1,13 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Verba Rara
 
-Currently, two official plugins are available:
+Verba Rara is an educational quiz application that challenges users to expand their vocabulary by identifying the meanings of rare and unusual words.
+## Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://paulmoch.github.io/verba-rara/
+## Features
+
+- **Quiz**: Test your knowledge of rare and obscure words by answering quiz questions.
+- **Result Feedback**: See your total correct and incorrect answers at the end of each quiz.
+- **Try Again**: Users can easily retry the quiz to improve their scores.
+- **Responsive Design**: Accessible on all devices.
