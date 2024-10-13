@@ -11,3 +11,7 @@ https://paulmoch.github.io/verba-rara/
 - **Result Feedback**: See your total correct and incorrect answers at the end of each quiz.
 - **Try Again**: Users can easily retry the quiz to improve their scores.
 - **Responsive Design**: Accessible on all devices.
+## Technologies
+
+- React with Vite
+- HTML, SCSS, JavaScript
